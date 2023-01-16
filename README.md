@@ -1,9 +1,4 @@
-# Teste Flutter e React
-
-São dois os testes que você deve realizar para seguir no processo seletivo da Arandu Tech. Os detalhes estão descritos a seguir.
-
-
-# Desafio 1 - React:
+# Desafio React:
  - Criar uma versão de site html do visual disponível abaixo no Figma utilizando React. 
  
 ## O que é importante:
